@@ -1,5 +1,5 @@
 # VAE 
-A simple vae implementation using keras, test on mnist celeba datasets. 
+A simple vae implementation using keras, test on mnist and celeba datasets. 
 
 
 # CVAE 
